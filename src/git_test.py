@@ -7,7 +7,7 @@ Created on Jul 4, 2016
 import os, one
 
 def main():
-    print 'git test ran'
+    print 'hello august'
 
 if __name__ == "__main__":
     main()
