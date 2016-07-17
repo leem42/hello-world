@@ -4,7 +4,7 @@ Created on Jul 17, 2016
 @author: leem42
 '''
 
-class MyClass(object):
+class CalculatorController(object):
     '''
     classdocs
     '''
